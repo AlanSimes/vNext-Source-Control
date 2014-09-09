@@ -16,11 +16,6 @@ namespace vNext_Source_Control.Controllers
         {
             ViewBag.Message = "Your application description page.";
 
-
-
-
-
-
             return View();
         }
 
